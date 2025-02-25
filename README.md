@@ -1,3 +1,5 @@
+# BDO Grotesk
+
 Overview
 
 BDO Grotesk is a neo-grotesk typeface featuring seven distinct styles. Designed for versatility, it balances modern aesthetics with functional readability.
@@ -25,3 +27,5 @@ Repository Layout
 
 This font repository structure is inspired by Unified Font Repository v0.3.
 
+
+![Image](https://github.com/user-attachments/assets/7cf8de43-b18e-40b6-9895-57e598e0b105)

@@ -4,7 +4,7 @@ Overview
 
 BDO Grotesk is a neo-grotesk typeface featuring seven distinct styles. Designed for versatility, it balances modern aesthetics with functional readability.
 
-Building
+## Building
 
 Fonts are built automatically by GitHub Actions. Check the "Actions" tab for the latest build.
 
@@ -18,7 +18,7 @@ make test to run FontBakery quality assurance tests.
 
 make proof to generate HTML proof files.
 
-License
+## License
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below and is also available with a FAQ at http://scripts.sil.org/OFL.

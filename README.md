@@ -29,3 +29,6 @@ This font repository structure is inspired by Unified Font Repository v0.3.
 
 
 ![Image](https://github.com/user-attachments/assets/7cf8de43-b18e-40b6-9895-57e598e0b105)
+
+
+<img width="1229" alt="Image" src="https://github.com/user-attachments/assets/fda65ccd-1d61-40d9-9c47-9147969494c9" />
